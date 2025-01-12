@@ -8,6 +8,4 @@
 - [8. Full Text Search](8.%20Full%20Text%20Search.md)
 - [9. Advanced JSON](9.%20Advanced%20JSON.md)
 - [10. Vectors (pgvector)](10.%20Vectors%20(pgvector).md)
-
 - [11. How to improve database performance](11.%20How%20to%20improve%20database%20performance.md)
-- 
