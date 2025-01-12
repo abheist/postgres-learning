@@ -1,0 +1,59 @@
+- DDL
+	- Target
+		- Database
+		- Table
+		- Constraints
+		- View
+		- Index
+	- Operation
+		- Create
+		- Delete
+		- Update
+		- Rename
+- DQL
+	- Select
+	- From
+		- Join
+		- Inner join
+		- Left join
+		- Right join
+		- Full outer join
+		- Cross join
+	- Where
+		- use operators and functions
+	- Group by
+	- Having
+		- Filter inside grouping
+	- Order by
+		- ASC
+		- DESC
+	- Limit
+- DML
+	- Insert
+	- Update
+	- Delete
+- DCL
+	- Grant
+	- Revoke
+- TCL
+	- Start (Begin) transaction
+	- Commit
+	- Rollback
+- Data types
+	- Numeric
+	- String
+	- Datetime
+	- Boolean
+	- Json
+- Functions
+	- Numeric functions
+	- String functions
+	- Datetime functions
+	- Null functions
+- Operators
+	- Logical operators
+		- AND
+		- OR
+		- NOT
+	- Update
+	- Rename
